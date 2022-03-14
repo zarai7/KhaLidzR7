@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="Login in.css">
+</head>
+<body>
+    <section>
+        <div class="azerty">
+            <h1 class="logo">khalid</h1>
+            <p>Bonjour je suis <span class="logo1">khalid</span> partagez et restez <br>en contact avec votre entourage. </p>
+        </div>
+    
+        <form action="">
+            <div class="khalid">
+                <div class="user">
+                    <label for="email" class="user"></label>
+                    <input type="email" id="password" placeholder="Adresse e-mail ou numèro de tèle"><br>
+                    <label for="password" class="user"></label>
+                    <input type="password" id="password" placeholder="Mot de passe"><br>
+                    <button class="connecter"><a href="cv.html">Se connecter</a></button><br>
+                    <a href="" class="oublie">Mot de pass oubliè?</a>
+                    <hr>
+                    <button class="Crèer"><a href="coneccter.html">Crèer nouveau compte</a></button>
+                 </div>
+            </div>
+        </form>
+    </section>
+</body>
+</html>
